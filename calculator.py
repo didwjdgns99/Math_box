@@ -10,3 +10,6 @@ def multiply(a,b):
 
 def devide_new(a,b):
   return a/b
+
+def sat_hello():
+  print("hello")
